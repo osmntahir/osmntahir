@@ -12,7 +12,7 @@ Ben bir yazılım geliştiriciyim. Şu an Java Spring Boot öğrenmekteyim. Aç�
 ## Projeler
 İşte bazı önemli projelerim:
 - [C++ Veri Yapıları](https://github.com/osmntahir/DataStructures-Assignments): Okul döneminde karşılaştığım tüm C++ veri yapıları ödevleri
-- [C Nesne Yönelimli Benzetim](https://github.com/osmntahir/ColonyGame-C): Düşük seviyeli dil olan C dilinde nesne yönelimli benzetim uygulayarak gerçekledim
+- [C Nesne Yönelimli Benzetim](https://github.com/osmntahir/ColonyGame-C): Düşük seviyeli dil olan C dilinde nesne yönelimli benzetim uygulayarak gerçeklediğim proje
 - [C# Hastane Randevu Sistemi](https://github.com/osmntahir/HospitalAppointmentSystem): DatabaseFirst yaklaşımı ile gerçeklediğim C# MVC hastane randevu sistemi
 
 ## Teknoloji Yığını
