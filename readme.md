@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="170em"  src="https://github-readme-stats.vercel.app/api?username=osmntahir&show_icons=true&hide_border=true&theme=radical&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmntahir&theme=radical&hide_border=true&layout=compact"/>
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=osmntahir&include_all_commits=true&hide_border=true&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=osmntahir&show_icons=true&hide_border=true&theme=cyan&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmntahir&theme=cyan&hide_border=true&layout=compact"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=osmntahir&include_all_commits=true&hide_border=true&theme=cyan"/>
 </p>
