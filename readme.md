@@ -4,16 +4,6 @@
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=osmntahir&include_all_commits=true&hide_border=true&theme=tokyonight"/>
 </p>
 
-<!-- GitHub Repository Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="GitHub Repository Stats" />
-<!-- GitHub Top Language Stats -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="GitHub Top Language Stats" />
-<!-- GitHub Pull Request and Issue Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub Pull Request and Issue Stats" />
-<!-- GitHub Contribution Graph -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername" alt="GitHub Contribution Graph" />
-
-
 # Merhaba, Benim Adım Osman Tair ÖZDEMİR 👋
 
 ## Hakkımda
