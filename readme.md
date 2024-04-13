@@ -1,42 +1,31 @@
-# Merhaba, Benim Adım Osman Tair ÖZDEMİR 👋
 
-## Hakkımda
-Ben bir yazılım geliştiriciyim. Şu an Java Spring Boot öğrenmekteyim. Açık kaynaklı projelere katkı sağlamaktan ve yeni teknolojiler öğrenmekten keyif alıyorum.
 
-## Projeler
-İşte bazı önemli projelerim:
-- [C++ Veri Yapıları](https://github.com/osmntahir/DataStructures-Assignments): Okul döneminde karşılaştığım tüm C++ veri yapıları ödevleri
-- [C Nesne Yönelimli Benzetim](https://github.com/osmntahir/ColonyGame-C): Düşük seviyeli dil olan C dilinde nesne yönelimli benzetim uygulayarak gerçeklediğim proje
-- [C# Hastane Randevu Sistemi](https://github.com/osmntahir/HospitalAppointmentSystem): DatabaseFirst yaklaşımı ile gerçeklediğim C# MVC hastane randevu sistemi
+<h1>Hi 👋, I am Osman Tahir Özdemir</h1>
+<h3>A Computer Science student who improves himself</h3>
 
-## Teknoloji Yığını
-Çalıştığım bazı teknolojiler:
-- Programlama Dilleri: 
-    - ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
-    - ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=c%2B%2B)
-    - ![C](https://img.shields.io/badge/-C-brightgreen?style=flat-square&logo=c)
-    - ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
-    - ![C#](https://img.shields.io/badge/-C%23-blueviolet?style=flat-square&logo=c-sharp)
-- Frameworks/Kütüphaneler: 
-    - ![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET_MVC-blue?style=flat-square&logo=.net)
-    - ![Entity Framework](https://img.shields.io/badge/-Entity_Framework-blueviolet?style=flat-square&logo=.net)
-    - ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-green?style=flat-square&logo=spring)
-- Araçlar: 
-    - ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
 
-## İletişim
-E-posta: ozdemirosmantahir@gmail.com  
-LinkedIn: [osman-tahir-özdemir](https://www.linkedin.com/in/osman-tahir-%C3%B6zdemir-969090233/)
-Tüm projelerim --> [Tüm repolarım ](https://github.com/osmntahir?tab=repositories)
+- 🌱 I’m currently learning **Cyber Security and Java - Spring Boot**
 
----
+- 👨‍💻 All of my projects are available at [here](https://github.com/osmntahir?tab=repositories).
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=osmntahir&show_icons=true&hide_border=true&theme=tokyonight&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmntahir&theme=tokyonight&hide_border=true&layout=compact"/>
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=osmntahir&include_all_commits=true&hide_border=true&theme=tokyonight"/>
+- 📫 How to reach me **ozdemirosmantahir@gmail.com**
+
+- 📄 Know about my experiences [here](https://linkedin.com/in/osmntahir)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/osmntahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osmntahir" height="30" width="40" /></a>
+<a href="https://instagram.com/osmntahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osmntahir" height="30" width="40" /></a>
 </p>
 
 ---
 
-Teşekkür ederim ki zaman ayırdınız ve profilimi ziyaret ettiniz! Sizinle tanışmak ve işbirliği yapmak için sabırsız
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+
+
+<p align="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=osmntahir&show_icons=true&hide_border=true&theme=tokyonight&count_private=true"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmntahir&theme=tokyonight&hide_border=true&layout=compact"/>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=osmntahir&include_all_commits=true&hide_border=true&theme=tokyonight"/>
+</p>
