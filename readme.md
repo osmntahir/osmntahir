@@ -27,8 +27,7 @@ Ben bir yazılım geliştiriciyim. Şu an Java Spring Boot öğrenmekteyim. Aç�
 ## İletişim
 E-posta: ozdemirosmantahir@gmail.com  
 LinkedIn: [osman-tahir-özdemir](https://www.linkedin.com/in/osman-tahir-%C3%B6zdemir-969090233/)
-
-Tüm projelerim --> (https://github.com/osmntahir)
+Tüm projelerim --> [Tüm repolarım ](https://github.com/osmntahir?tab=repositories))
 
 ---
 
