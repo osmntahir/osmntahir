@@ -39,4 +39,4 @@ Tüm projelerim --> [Tüm repolarım ](https://github.com/osmntahir?tab=reposito
 
 ---
 
-Teşekkür ederim ki zaman ayırdınız ve profilimi ziyaret ettiniz! Sizinle tanışmak ve işbirliği yapmak için sabırsızlanıyorum. 😊
+Teşekkür ederim ki zaman ayırdınız ve profilimi ziyaret ettiniz! Sizinle tanışmak ve işbirliği yapmak için sabırsız
