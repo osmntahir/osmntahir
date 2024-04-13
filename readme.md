@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **ozdemirosmantahir@gmail.com**
 
-- 📄 Know about my experiences [here](https://linkedin.com/in/osmntahir)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
