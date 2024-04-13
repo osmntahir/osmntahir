@@ -1,8 +1,3 @@
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=osmntahir&show_icons=true&hide_border=true&theme=tokyonight&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmntahir&theme=tokyonight&hide_border=true&layout=compact"/>
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=osmntahir&include_all_commits=true&hide_border=true&theme=tokyonight"/>
-</p>
 
 # Merhaba, Benim Adım Osman Tair ÖZDEMİR 👋
 
@@ -27,8 +22,14 @@ Ben bir yazılım geliştiriciyim. Şu an Java Spring Boot öğrenmekteyim. Aç�
 ## İletişim
 E-posta: ozdemirosmantahir@gmail.com  
 LinkedIn: [osman-tahir-özdemir](https://www.linkedin.com/in/osman-tahir-%C3%B6zdemir-969090233/)
-Tüm projelerim --> [Tüm repolarım ](https://github.com/osmntahir?tab=repositories))
+Tüm projelerim --> [Tüm repolarım ](https://github.com/osmntahir?tab=repositories)
 
+---
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=osmntahir&show_icons=true&hide_border=true&theme=tokyonight&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmntahir&theme=tokyonight&hide_border=true&layout=compact"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=osmntahir&include_all_commits=true&hide_border=true&theme=tokyonight"/>
+</p>
 ---
 
 Teşekkür ederim ki zaman ayırdınız ve profilimi ziyaret ettiniz! Sizinle tanışmak ve işbirliği yapmak için sabırsızlanıyorum. 😊
