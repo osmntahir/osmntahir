@@ -1,4 +1,3 @@
-
 # Merhaba, Benim Adım Osman Tair ÖZDEMİR 👋
 
 ## Hakkımda
@@ -12,12 +11,18 @@ Ben bir yazılım geliştiriciyim. Şu an Java Spring Boot öğrenmekteyim. Aç�
 
 ## Teknoloji Yığını
 Çalıştığım bazı teknolojiler:
-- Programlama Dilleri: Java, C++, C, Python, C#
+- Programlama Dilleri: 
+    - ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
+    - ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=c%2B%2B)
+    - ![C](https://img.shields.io/badge/-C-brightgreen?style=flat-square&logo=c)
+    - ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
+    - ![C#](https://img.shields.io/badge/-C%23-blueviolet?style=flat-square&logo=c-sharp)
 - Frameworks/Kütüphaneler: 
-    - ASP.NET MVC
-    - Entity Framework
-    - Spring Boot
-- Araçlar: Docker
+    - ![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET_MVC-blue?style=flat-square&logo=.net)
+    - ![Entity Framework](https://img.shields.io/badge/-Entity_Framework-blueviolet?style=flat-square&logo=.net)
+    - ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-green?style=flat-square&logo=spring)
+- Araçlar: 
+    - ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
 
 ## İletişim
 E-posta: ozdemirosmantahir@gmail.com  
@@ -35,6 +40,3 @@ Tüm projelerim --> [Tüm repolarım ](https://github.com/osmntahir?tab=reposito
 ---
 
 Teşekkür ederim ki zaman ayırdınız ve profilimi ziyaret ettiniz! Sizinle tanışmak ve işbirliği yapmak için sabırsızlanıyorum. 😊
-
-
-
