@@ -4,7 +4,7 @@
 <h3>A Computer Science student who improves himself</h3>
 
 
-- 🌱 I’m currently learning **Cyber Security and Java - Spring Boot**
+- 🌱 I’m currently learning **Artificial Intelligence and Java - Spring Boot**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/osmntahir?tab=repositories).
 
