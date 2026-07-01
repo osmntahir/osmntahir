@@ -1,0 +1,88 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="Osman Tahir Ozdemir - Backend & AI Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="45%" stop-color="#0f2027"/>
+      <stop offset="100%" stop-color="#16222a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#36BCF7">
+        <animate attributeName="stop-color" values="#36BCF7;#4facfe;#00f2fe;#36BCF7" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#00f2fe">
+        <animate attributeName="stop-color" values="#00f2fe;#36BCF7;#4facfe;#00f2fe" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#36BCF7" stroke-width="0.4" stroke-opacity="0.12"/>
+    </pattern>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+  <rect x="1.5" y="1.5" width="1197" height="297" rx="17" fill="none" stroke="url(#accent)" stroke-width="2" stroke-opacity="0.55"/>
+
+  <!-- floating particles -->
+  <g fill="#36BCF7">
+    <circle cx="120" cy="70" r="3" opacity="0.5"><animate attributeName="opacity" values="0.15;0.7;0.15" dur="3.5s" repeatCount="indefinite"/><animate attributeName="cy" values="70;58;70" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="1080" cy="90" r="2.5" opacity="0.4"><animate attributeName="opacity" values="0.1;0.6;0.1" dur="4.2s" repeatCount="indefinite"/><animate attributeName="cy" values="90;104;90" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="1000" cy="220" r="3.5" opacity="0.35"><animate attributeName="opacity" values="0.1;0.55;0.1" dur="5s" repeatCount="indefinite"/><animate attributeName="cy" values="220;208;220" dur="6.5s" repeatCount="indefinite"/></circle>
+    <circle cx="150" cy="235" r="2.5" opacity="0.45"><animate attributeName="opacity" values="0.12;0.6;0.12" dur="3.8s" repeatCount="indefinite"/><animate attributeName="cy" values="235;247;235" dur="5.5s" repeatCount="indefinite"/></circle>
+    <circle cx="60" cy="150" r="2" opacity="0.4"><animate attributeName="opacity" values="0.1;0.5;0.1" dur="4.6s" repeatCount="indefinite"/></circle>
+    <circle cx="1140" cy="160" r="2" opacity="0.4"><animate attributeName="opacity" values="0.1;0.5;0.1" dur="4s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- left accent bar -->
+  <rect x="70" y="112" width="5" height="76" rx="3" fill="url(#accent)">
+    <animate attributeName="height" values="0;76" dur="0.9s" fill="freeze"/>
+    <animate attributeName="y" values="150;112" dur="0.9s" fill="freeze"/>
+  </rect>
+
+  <!-- name -->
+  <text x="100" y="140" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="52" font-weight="800" fill="#ffffff" filter="url(#glow)">
+    Osman Tahir Ozdemir
+    <animate attributeName="opacity" values="0;1" dur="1s" fill="freeze"/>
+  </text>
+
+  <!-- role -->
+  <text x="102" y="180" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="500" fill="#9fb3c8">
+    Computer Science Student
+    <tspan fill="url(#accent)" font-weight="700"> &#183; Backend &amp; AI Engineer</tspan>
+    <animate attributeName="opacity" values="0;1" dur="1.4s" fill="freeze"/>
+  </text>
+
+  <!-- animated underline -->
+  <line x1="102" y1="196" x2="640" y2="196" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="540" stroke-dashoffset="540">
+    <animate attributeName="stroke-dashoffset" values="540;0" dur="1.6s" fill="freeze"/>
+  </line>
+
+  <!-- tech tags -->
+  <g font-family="'Fira Code', 'Courier New', monospace" font-size="15" font-weight="600">
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.6s" begin="1.4s" fill="freeze"/>
+      <rect x="102" y="222" width="80" height="30" rx="15" fill="#36BCF7" fill-opacity="0.12" stroke="#36BCF7" stroke-opacity="0.5"/>
+      <text x="142" y="242" fill="#7fd4ff" text-anchor="middle">Java</text>
+    </g>
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.6s" begin="1.6s" fill="freeze"/>
+      <rect x="192" y="222" width="132" height="30" rx="15" fill="#36BCF7" fill-opacity="0.12" stroke="#36BCF7" stroke-opacity="0.5"/>
+      <text x="258" y="242" fill="#7fd4ff" text-anchor="middle">Spring Boot</text>
+    </g>
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.6s" begin="1.8s" fill="freeze"/>
+      <rect x="334" y="222" width="150" height="30" rx="15" fill="#36BCF7" fill-opacity="0.12" stroke="#36BCF7" stroke-opacity="0.5"/>
+      <text x="409" y="242" fill="#7fd4ff" text-anchor="middle">Microservices</text>
+    </g>
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.6s" begin="2.0s" fill="freeze"/>
+      <rect x="494" y="222" width="52" height="30" rx="15" fill="#36BCF7" fill-opacity="0.12" stroke="#36BCF7" stroke-opacity="0.5"/>
+      <text x="520" y="242" fill="#7fd4ff" text-anchor="middle">AI</text>
+    </g>
+  </g>
+
+  <!-- right side decorative code bracket -->
+  <g font-family="'Fira Code', monospace" fill="#36BCF7" opacity="0.10" font-size="150" font-weight="700">
+    <text x="960" y="205">&lt;/&gt;</text>
+  </g>
+</svg>
