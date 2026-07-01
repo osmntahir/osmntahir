@@ -1,46 +1,164 @@
-# Hi 👋, I am Osman Tahir Özdemir
+<!-- ══════════════════════════ BANNER ══════════════════════════ -->
+<a href="https://github.com/osmntahir">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Osman%20Tahir%20%C3%96zdemir&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%E2%80%A2%20AI%20%26%20Java%20Spring%20Boot&descSize=18&descAlignY=60&animation=fadeIn" alt="banner"/>
+</a>
 
-### A Computer Science student who improves himself
+<!-- ══════════════════════════ TYPING INTRO ══════════════════════════ -->
+<div align="center">
 
-- 🌱 I'm currently learning **Artificial Intelligence and Java - Spring Boot**
-- 👨‍💻 All of my projects are available at [here](https://github.com/osmntahir?tab=repositories)
-- 📫 How to reach me **ozdemirosmantahir@gmail.com**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Osman+Tahir+%C3%96zdemir;Computer+Science+student+who+never+stops+learning;Building+with+Java+%E2%98%95+Spring+Boot+%F0%9F%8D%83;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Welcome+to+my+corner+of+GitHub!)](https://git.io/typing-svg)
 
----
+<!-- Profile views + followers -->
+<img src="https://komarev.com/ghpvc/?username=osmntahir&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+&nbsp;
+<a href="https://github.com/osmntahir?tab=followers">
+  <img src="https://img.shields.io/github/followers/osmntahir?label=Followers&style=social" alt="followers" />
+</a>
 
-### Connect with me:
-
-<p align="left">
-<a href="https://www.linkedin.com/in/osman-tahir-%C3%B6zdemir-969090233/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osmntahir" height="30" width="40" /></a>
-<a href="https://instagram.com/osmntahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osmntahir" height="30" width="40" /></a>
-</p>
-
----
-
-### Languages and Tools:
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+</div>
 
 ---
 
-### 📊 GitHub Stats:
+<!-- ══════════════════════════ ABOUT ══════════════════════════ -->
+## 🧑‍💻 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osmntahir&show_icons=true&hide_border=true&theme=tokyonight&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmntahir&theme=tokyonight&hide_border=true&layout=compact"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osmntahir&include_all_commits=true&hide_border=true&theme=tokyonight"/>
-</p>
+```typescript
+const osman: Developer = {
+  university:  "Sakarya University 🎓",
+  role:        "Computer Science Student",
+  location:    "Sakarya, Turkey 🇹🇷",
+  currentFocus:["Artificial Intelligence 🤖", "Java · Spring Boot 🍃", "Microservices 🧩"],
+  mindset:     "Improve 1% every single day 📈",
+  askMeAbout:  ["Java", "Spring Boot", "Microservices", "System Design"],
+  funFact:     "I turn ☕ into scalable backends.",
+};
+```
+
+- 🌱 Currently mastering **Artificial Intelligence** and **Java · Spring Boot**
+- 🧩 Passionate about **microservices**, clean architecture and backend systems
+- 🔭 Explore all my work → **[github.com/osmntahir?tab=repositories](https://github.com/osmntahir?tab=repositories)**
+- 📫 Reach me → **ozdemirosmantahir@gmail.com**
 
 ---
 
-### ☕ Support My Work:
+<!-- ══════════════════════════ CONNECT ══════════════════════════ -->
+## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://buymeacoffee.com/osmntahir" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217">
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>If you like my work, consider buying me a coffee! ☕</i>
-</p>
+<a href="https://www.linkedin.com/in/osman-tahir-özdemir-969090233">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="mailto:ozdemirosmantahir@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://stackoverflow.com/">
+  <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"/>
+</a>
+
+</div>
+
+---
+
+<!-- ══════════════════════════ TECH STACK ══════════════════════════ -->
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+### Frameworks & Runtimes
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### Systems & Networking
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+</div>
+
+---
+
+<!-- ══════════════════════════ GITHUB STATS ══════════════════════════ -->
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=osmntahir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmntahir&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=osmntahir&theme=tokyonight&hide_border=true&background=0d1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="streak stats"/>
+
+</div>
+
+---
+
+<!-- ══════════════════════════ TROPHIES ══════════════════════════ -->
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=osmntahir&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies"/>
+
+</div>
+
+---
+
+<!-- ══════════════════════════ SNAKE ══════════════════════════ -->
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/osmntahir/osmntahir/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/osmntahir/osmntahir/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/osmntahir/osmntahir/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=osmntahir&theme=tokyo-night&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&hide_border=true&area=true" alt="activity graph"/>
+
+</div>
+
+---
+
+<!-- ══════════════════════════ QUOTE ══════════════════════════ -->
+<div align="center">
+
+## ✨ Dev Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
+
+</div>
+
+---
+
+<!-- ══════════════════════════ FOOTER ══════════════════════════ -->
+<div align="center">
+
+### 💙 Thanks for visiting — let's build something great together!
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+
+</div>
