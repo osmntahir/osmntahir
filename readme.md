@@ -1,6 +1,6 @@
 <!-- ══════════════════════════ BANNER ══════════════════════════ -->
 <a href="https://github.com/osmntahir">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Osman%20Tahir%20%C3%96zdemir&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%E2%80%A2%20AI%20%26%20Java%20Spring%20Boot&descSize=18&descAlignY=60&animation=fadeIn" alt="banner"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Osman%20Tahir%20%C3%96zdemir&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%E2%80%A2%20AI%20%26%20Java%20Spring%20Boot&descSize=18&descAlignY=60&animation=fadeIn&reload=1" alt="banner"/>
 </a>
 
 <!-- ══════════════════════════ TYPING INTRO ══════════════════════════ -->
@@ -104,23 +104,21 @@ const osman: Developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=osmntahir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmntahir&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osmntahir&theme=tokyonight" alt="profile summary"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=osmntahir&theme=tokyonight&hide_border=true&background=0d1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="streak stats"/>
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osmntahir&theme=tokyonight" alt="top languages"/>
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=osmntahir&theme=tokyonight" alt="most commit language"/>
 
-</div>
+<br/>
 
----
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=osmntahir&theme=tokyonight" alt="stats"/>
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=osmntahir&theme=tokyonight&utcOffset=3" alt="productive time"/>
 
-<!-- ══════════════════════════ TROPHIES ══════════════════════════ -->
-## 🏆 GitHub Trophies
+<br/>
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=osmntahir&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies"/>
+<img src="https://streak-stats.demolab.com/?user=osmntahir&theme=tokyonight&hide_border=true&background=0d1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="streak stats"/>
 
 </div>
 
