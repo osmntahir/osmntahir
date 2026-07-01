@@ -1,0 +1,24 @@
+<svg width="1200" height="150" viewBox="0 0 1200 150" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="footer wave">
+  <defs>
+    <linearGradient id="fg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#16222a"/>
+      <stop offset="50%" stop-color="#0f2027"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#fg)" fill-opacity="0.55" d="M0,60 C200,110 400,10 600,55 C800,100 1000,20 1200,60 L1200,150 L0,150 Z">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite"
+      values="M0,60 C200,110 400,10 600,55 C800,100 1000,20 1200,60 L1200,150 L0,150 Z;
+              M0,55 C200,15 400,105 600,50 C800,5 1000,95 1200,50 L1200,150 L0,150 Z;
+              M0,60 C200,110 400,10 600,55 C800,100 1000,20 1200,60 L1200,150 L0,150 Z"/>
+  </path>
+  <path fill="url(#fg)" d="M0,80 C220,120 420,40 600,75 C820,115 1010,45 1200,80 L1200,150 L0,150 Z">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite"
+      values="M0,80 C220,120 420,40 600,75 C820,115 1010,45 1200,80 L1200,150 L0,150 Z;
+              M0,75 C220,35 420,115 600,70 C820,30 1010,110 1200,75 L1200,150 L0,150 Z;
+              M0,80 C220,120 420,40 600,75 C820,115 1010,45 1200,80 L1200,150 L0,150 Z"/>
+  </path>
+  <text x="600" y="128" text-anchor="middle" font-family="'Fira Code', monospace" font-size="15" font-weight="600" fill="#36BCF7" opacity="0.85">
+    Thanks for visiting &#183; Let's build something great together
+  </text>
+</svg>
