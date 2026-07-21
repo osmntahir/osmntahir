@@ -163,8 +163,8 @@ more) — each with its own game logic and solver/validation algorithm, inside o
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=osmntahir&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=36BCF7&icon_color=36BCF7&bg_color=0d1117" alt="GitHub stats"/>
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=osmntahir&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=36BCF7&bg_color=0d1117" alt="Top languages"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=osmntahir&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=36BCF7&icon_color=36BCF7&bg_color=0d1117&disable_animations=true" alt="GitHub stats"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=osmntahir&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=36BCF7&bg_color=0d1117&disable_animations=true" alt="Top languages"/>
 
 <br/>
 <br/>
