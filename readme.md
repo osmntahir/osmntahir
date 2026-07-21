@@ -7,6 +7,9 @@
 
 <div align="center">
 
+<a href="https://github.com/osmntahir/osmntahir/blob/main/assets/Osman_Tahir_Ozdemir_Software_Engineer_CV.pdf">
+  <img src="https://img.shields.io/badge/Download_CV-36BCF7?style=for-the-badge&logo=googledocs&logoColor=white" alt="Download CV"/>
+</a>
 <a href="https://www.linkedin.com/in/osman-tahir-özdemir-969090233">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
