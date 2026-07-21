@@ -1,7 +1,7 @@
 <!-- ══════════════════════════ BANNER ══════════════════════════ -->
 <div align="center">
   <a href="https://github.com/osmntahir">
-    <img src="https://raw.githubusercontent.com/osmntahir/osmntahir/main/assets/header.svg?v=4" width="100%" alt="Osman Tahir Ozdemir — Software Engineer, Full-Stack"/>
+    <img src="https://raw.githubusercontent.com/osmntahir/osmntahir/main/assets/header.svg?v=5" width="100%" alt="Osman Tahir Ozdemir — Software Engineer, Full-Stack"/>
   </a>
 </div>
 

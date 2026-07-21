@@ -39,43 +39,37 @@
 
   <!-- left accent bar -->
   <rect x="70" y="112" width="5" height="76" rx="3" fill="url(#accent)">
-    <animate attributeName="height" values="0;76" dur="0.9s" fill="freeze"/>
-    <animate attributeName="y" values="150;112" dur="0.9s" fill="freeze"/>
   </rect>
 
   <!-- name -->
   <text x="100" y="140" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="52" font-weight="800" fill="#ffffff" filter="url(#glow)">
     Osman Tahir Ozdemir
-    <animate attributeName="opacity" values="0;1" dur="1s" fill="freeze"/>
   </text>
 
   <!-- role -->
   <text x="102" y="180" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="500" fill="#9fb3c8">
     Software Engineer
     <tspan fill="url(#accent)" font-weight="700"> &#183; Full-Stack &#183; Java &amp; Spring Boot</tspan>
-    <animate attributeName="opacity" values="0;1" dur="1.4s" fill="freeze"/>
   </text>
 
   <!-- animated underline -->
-  <line x1="102" y1="196" x2="700" y2="196" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="600" stroke-dashoffset="600">
-    <animate attributeName="stroke-dashoffset" values="600;0" dur="1.6s" fill="freeze"/>
-  </line>
+  <line x1="102" y1="196" x2="700" y2="196" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round"/>
 
   <!-- tech tags -->
   <g font-family="'Fira Code', 'Courier New', monospace" font-size="15" font-weight="600">
-    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.6s" begin="1.4s" fill="freeze"/>
+    <g>
       <rect x="102" y="222" width="76" height="30" rx="15" fill="#36BCF7" fill-opacity="0.12" stroke="#36BCF7" stroke-opacity="0.5"/>
       <text x="140" y="242" fill="#7fd4ff" text-anchor="middle">Java</text>
     </g>
-    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.6s" begin="1.6s" fill="freeze"/>
+    <g>
       <rect x="188" y="222" width="139" height="30" rx="15" fill="#36BCF7" fill-opacity="0.12" stroke="#36BCF7" stroke-opacity="0.5"/>
       <text x="257" y="242" fill="#7fd4ff" text-anchor="middle">Spring Boot</text>
     </g>
-    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.6s" begin="1.8s" fill="freeze"/>
+    <g>
       <rect x="337" y="222" width="85" height="30" rx="15" fill="#36BCF7" fill-opacity="0.12" stroke="#36BCF7" stroke-opacity="0.5"/>
       <text x="379" y="242" fill="#7fd4ff" text-anchor="middle">React</text>
     </g>
-    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.6s" begin="2.0s" fill="freeze"/>
+    <g>
       <rect x="432" y="222" width="58" height="30" rx="15" fill="#36BCF7" fill-opacity="0.12" stroke="#36BCF7" stroke-opacity="0.5"/>
       <text x="461" y="242" fill="#7fd4ff" text-anchor="middle">AI</text>
     </g>
