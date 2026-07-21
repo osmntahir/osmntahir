@@ -1,4 +1,4 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="Osman Tahir Ozdemir - Backend & AI Engineer">
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="Osman Tahir Ozdemir - Software Engineer, Full-Stack">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0d1117"/>
@@ -51,33 +51,33 @@
 
   <!-- role -->
   <text x="102" y="180" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="500" fill="#9fb3c8">
-    Computer Science Student
-    <tspan fill="url(#accent)" font-weight="700"> &#183; Backend &amp; AI Engineer</tspan>
+    Software Engineer
+    <tspan fill="url(#accent)" font-weight="700"> &#183; Full-Stack &#183; Java &amp; Spring Boot</tspan>
     <animate attributeName="opacity" values="0;1" dur="1.4s" fill="freeze"/>
   </text>
 
   <!-- animated underline -->
-  <line x1="102" y1="196" x2="640" y2="196" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="540" stroke-dashoffset="540">
-    <animate attributeName="stroke-dashoffset" values="540;0" dur="1.6s" fill="freeze"/>
+  <line x1="102" y1="196" x2="700" y2="196" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="600" stroke-dashoffset="600">
+    <animate attributeName="stroke-dashoffset" values="600;0" dur="1.6s" fill="freeze"/>
   </line>
 
   <!-- tech tags -->
   <g font-family="'Fira Code', 'Courier New', monospace" font-size="15" font-weight="600">
     <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.6s" begin="1.4s" fill="freeze"/>
-      <rect x="102" y="222" width="80" height="30" rx="15" fill="#36BCF7" fill-opacity="0.12" stroke="#36BCF7" stroke-opacity="0.5"/>
-      <text x="142" y="242" fill="#7fd4ff" text-anchor="middle">Java</text>
+      <rect x="102" y="222" width="76" height="30" rx="15" fill="#36BCF7" fill-opacity="0.12" stroke="#36BCF7" stroke-opacity="0.5"/>
+      <text x="140" y="242" fill="#7fd4ff" text-anchor="middle">Java</text>
     </g>
     <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.6s" begin="1.6s" fill="freeze"/>
-      <rect x="192" y="222" width="132" height="30" rx="15" fill="#36BCF7" fill-opacity="0.12" stroke="#36BCF7" stroke-opacity="0.5"/>
-      <text x="258" y="242" fill="#7fd4ff" text-anchor="middle">Spring Boot</text>
+      <rect x="188" y="222" width="139" height="30" rx="15" fill="#36BCF7" fill-opacity="0.12" stroke="#36BCF7" stroke-opacity="0.5"/>
+      <text x="257" y="242" fill="#7fd4ff" text-anchor="middle">Spring Boot</text>
     </g>
     <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.6s" begin="1.8s" fill="freeze"/>
-      <rect x="334" y="222" width="150" height="30" rx="15" fill="#36BCF7" fill-opacity="0.12" stroke="#36BCF7" stroke-opacity="0.5"/>
-      <text x="409" y="242" fill="#7fd4ff" text-anchor="middle">Microservices</text>
+      <rect x="337" y="222" width="85" height="30" rx="15" fill="#36BCF7" fill-opacity="0.12" stroke="#36BCF7" stroke-opacity="0.5"/>
+      <text x="379" y="242" fill="#7fd4ff" text-anchor="middle">React</text>
     </g>
     <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.6s" begin="2.0s" fill="freeze"/>
-      <rect x="494" y="222" width="52" height="30" rx="15" fill="#36BCF7" fill-opacity="0.12" stroke="#36BCF7" stroke-opacity="0.5"/>
-      <text x="520" y="242" fill="#7fd4ff" text-anchor="middle">AI</text>
+      <rect x="432" y="222" width="58" height="30" rx="15" fill="#36BCF7" fill-opacity="0.12" stroke="#36BCF7" stroke-opacity="0.5"/>
+      <text x="461" y="242" fill="#7fd4ff" text-anchor="middle">AI</text>
     </g>
   </g>
 

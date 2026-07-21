@@ -1,23 +1,20 @@
-<!-- ══════════════════════════ BANNER (self-hosted, reliable) ══════════════════════════ -->
+<!-- ══════════════════════════ BANNER ══════════════════════════ -->
 <div align="center">
   <a href="https://github.com/osmntahir">
-    <img src="https://raw.githubusercontent.com/osmntahir/osmntahir/main/assets/header.svg" width="100%" alt="Osman Tahir Özdemir — Backend & AI Engineer"/>
+    <img src="https://raw.githubusercontent.com/osmntahir/osmntahir/main/assets/header.svg?v=4" width="100%" alt="Osman Tahir Ozdemir — Software Engineer, Full-Stack"/>
   </a>
 </div>
 
-<!-- ══════════════════════════ TYPING SUBTITLE ══════════════════════════ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=620&lines=Building+scalable+backends+with+Java+%26+Spring+Boot;Designing+clean%2C+distributed+microservices;Exploring+the+world+of+Artificial+Intelligence;Improving+1%25+every+single+day)](https://github.com/osmntahir)
-
-<a href="https://github.com/osmntahir">
-  <img src="https://komarev.com/ghpvc/?username=osmntahir&label=Profile%20views&color=36BCF7&style=flat-square" alt="views"/>
+<a href="https://www.linkedin.com/in/osman-tahir-özdemir-969090233">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/osmntahir?tab=followers">
-  <img src="https://img.shields.io/github/followers/osmntahir?label=Followers&style=flat-square&color=36BCF7&logo=github" alt="followers"/>
+<a href="mailto:ozdemirosmantahir@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/osmntahir?tab=repositories">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/osmntahir&query=public_repos&label=Repos&style=flat-square&color=4facfe&logo=github" alt="repos"/>
+  <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
 </a>
 
 </div>
@@ -25,20 +22,77 @@
 <br/>
 
 <!-- ══════════════════════════ ABOUT ══════════════════════════ -->
-## 👨‍💻 About Me
+## About
 
-> 🎓 **Computer Science** student at **Sakarya University**, focused on **backend engineering** — designing scalable, well-architected systems with **Java & Spring Boot**, while exploring the frontier of **Artificial Intelligence**.
+I build production software end-to-end — backend services, web apps and hardware-level integrations —
+mostly with **Java / Spring Boot** and **React / TypeScript**.
 
-- 🔭 &nbsp;Building **microservices** with clean architecture, Docker & API gateways
-- 🌱 &nbsp;Currently deepening my knowledge in **AI / ML** and distributed systems
-- 🎯 &nbsp;Engineering philosophy → *write code that scales, reads clean, and lasts*
-- 💬 &nbsp;Ask me about **Java · Spring Boot · System Design · Microservices**
-- 📫 &nbsp;Reach me at **[ozdemirosmantahir@gmail.com](mailto:ozdemirosmantahir@gmail.com)**
+Software Engineer at **[Codexist](https://codex.ist)** (Istanbul), working on an AI-powered real estate
+platform and a self-service gold-retail kiosk product: from domain modelling and LLM data-extraction
+pipelines down to Linux provisioning, POS terminals and thermal printers.
+
+- 🎓 &nbsp;BSc **Computer Engineering**, Sakarya University — graduated 2025
+- 🧱 &nbsp;Domain-Driven Design, clean architecture, tested code — JUnit 5 · Testcontainers
+- 🤖 &nbsp;AI-augmented development workflow: demanding features shipped fast, without cutting quality
+- 📫 &nbsp;**[ozdemirosmantahir@gmail.com](mailto:ozdemirosmantahir@gmail.com)**
+
+<br/>
+
+<!-- ══════════════════════════ SELECTED WORK ══════════════════════════ -->
+## Selected Work
+
+> Professional work at Codexist — closed-source, summarised here.
+
+### 🏢 &nbsp;AI-Powered Real Estate Platform
+
+`Java 21` `Spring Boot 3.5` `DDD` `jOOQ` `PostgreSQL` `Keycloak` `Redis` `RabbitMQ` `React + TypeScript`
+
+A domain-driven backend serving two React web apps — back-office and customer-facing.
+
+- Built **AI pipelines** that extract structured property data from appraisal reports, match raw property
+  lists against extracted records and auto-match neighbourhoods — replacing manual data entry with
+  automated ingestion.
+- Modelled highly interdependent business rules and **dynamic, category-driven forms** with cascading
+  field visibility and validation.
+- Kept the codebase maintainable under heavy domain complexity: clear DDD boundaries, JUnit 5 and
+  Testcontainers integration tests.
+
+### 🏧 &nbsp;Self-Service Gold-Retail Kiosk
+
+`Spring Boot` `React` `Python / Flask` `Bash` `Linux` `ESC/POS` `POS Terminals`
+
+An unattended retail product delivered end-to-end — backend, storefront, admin panel and the device itself.
+
+- Integrated a **real payment flow through POS terminals** and **ESC/POS thermal receipt printing**.
+- Wrote a **Flask on-device agent** that secures each kiosk with token-based authentication — the storefront
+  renders only for authenticated devices — and bridges the browser to printer and POS hardware.
+- Provisioned Linux devices into locked-down kiosk mode with custom Bash scripts, replicated fleet-wide.
+
+### 🧩 &nbsp;Puzzle Games — Cross-Platform Mobile App
+
+`Flutter` `Dart` `Android + iOS`
+
+Independently designed and built a mobile app bundling **15 puzzle games** (Sudoku, Queens, Tango, Zip and
+more) — each with its own game logic and solver/validation algorithm, inside one unified experience.
+
+<br/>
+
+<!-- ══════════════════════════ OPEN SOURCE ══════════════════════════ -->
+## Open Source & Side Projects
+
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| **[SabisAverageCalculator](https://github.com/osmntahir/SabisAverageCalculator)** ⭐ 22 | Chrome extension that calculates GPA from course grades directly inside Sakarya University's SABİS portal | `JavaScript` `Chrome Extension` |
+| **[SmartTill](https://github.com/osmntahir/SmartTill-Microservices-Java-SpringBoot)** | Microservices cash-register system: payment transactions behind an API gateway, Keycloak-secured auth, fully containerised | `Spring Boot` `Keycloak` `Docker` `PostgreSQL` |
+| **[NonProfitHub](https://github.com/osmntahir/NonProfitHub)** | News & announcement management system for non-profit organisations, with separate admin and public interfaces | `Vue.js` `Spring Boot` |
+| **[WGAN-GP + R-GCN](https://github.com/osmntahir/WGAN-GP-with-R-GCN-for-the-generation-of-small-molecular-graphs)** | Generative model for small molecular graphs — Wasserstein GAN with gradient penalty over a relational GCN | `Python` `Deep Learning` |
+| **[SABİS Halısaha Botu](https://github.com/osmntahir/SABIS_HALISAHA_BOTU)** | Automation bot for the university's football-pitch reservation system | `Python` `Automation` |
+| **[LeetCodeSolutions](https://github.com/osmntahir/LeetCodeSolutions)** | Daily algorithm practice, solved and documented in Java | `Java` `Algorithms` |
 
 <br/>
 
 <!-- ══════════════════════════ TECH STACK ══════════════════════════ -->
-## 🧰 Tech Stack
+## Tech Stack
 
 <table>
   <tr>
@@ -47,36 +101,56 @@
 **Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-**Frameworks & Runtimes**
+**Backend**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![Hibernate](https://img.shields.io/badge/JPA_%2F_Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![jOOQ](https://img.shields.io/badge/jOOQ-D14524?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native_%2F_Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
 </td>
     <td valign="top" width="50%">
 
-**DevOps & Tools**
+**Data & Infrastructure**
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+**Testing & Tooling**
+
+![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-291A3B?style=flat-square&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-**Systems & Networking**
+**Practices**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Kali](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Domain-Driven Design](https://img.shields.io/badge/Domain--Driven_Design-1f6feb?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-1f6feb?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-1f6feb?style=flat-square)
+![OAuth2 / OIDC](https://img.shields.io/badge/OAuth2_%2F_OIDC-1f6feb?style=flat-square)
+![Agile](https://img.shields.io/badge/Agile-1f6feb?style=flat-square)
 
 </td>
   </tr>
@@ -84,72 +158,22 @@
 
 <br/>
 
-<!-- ══════════════════════════ CONNECT ══════════════════════════ -->
-## 🌐 Connect With Me
-
-<div align="left">
-
-<a href="https://www.linkedin.com/in/osman-tahir-özdemir-969090233">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://www.instagram.com/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="mailto:ozdemirosmantahir@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://stackoverflow.com/">
-  <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"/>
-</a>
-
-</div>
-
-<br/>
-
 <!-- ══════════════════════════ STATS ══════════════════════════ -->
-## 📊 GitHub Statistics
+## GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=osmntahir&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=36BCF7&icon_color=36BCF7" alt="stats"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=osmntahir&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=36BCF7" alt="top languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=osmntahir&theme=tokyonight&hide_border=true&background=0d1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="streak"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=osmntahir&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=36BCF7&icon_color=36BCF7&bg_color=0d1117" alt="GitHub stats"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=osmntahir&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=36BCF7&bg_color=0d1117" alt="Top languages"/>
 
 <br/>
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=osmntahir&theme=tokyo-night&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&hide_border=true&area=true" alt="activity graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=osmntahir&theme=tokyo-night&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&hide_border=true&area=true" alt="Contribution activity"/>
 
 </div>
 
-<br/>
-
-<!-- ══════════════════════════ SNAKE (self-generated, no Actions needed) ══════════════════════════ -->
-## 🐍 Watch the Snake Eat My Contributions
-
+<!-- ══════════════════════════ FOOTER ══════════════════════════ -->
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/osmntahir/osmntahir/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/osmntahir/osmntahir/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating contribution graph" src="https://raw.githubusercontent.com/osmntahir/osmntahir/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════════ QUOTE ══════════════════════════ -->
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
-
-</div>
-
-<!-- ══════════════════════════ FOOTER (self-hosted) ══════════════════════════ -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/osmntahir/osmntahir/main/assets/footer.svg" width="100%" alt="footer"/>
+  <img src="https://raw.githubusercontent.com/osmntahir/osmntahir/main/assets/footer.svg?v=2" width="100%" alt=""/>
 </div>
