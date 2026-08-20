@@ -28,6 +28,8 @@ jobs:
 
       - name: Generate the SVGs
         working-directory: snake
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           npm install --silent generate-snake-animation@3.5.0
           node patch.js 2 7
