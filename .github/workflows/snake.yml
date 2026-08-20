@@ -1,0 +1,49 @@
+name: Generate Snake Animation
+
+# Regenerates the growing snake and force-updates the `output` branch, which the
+# readme points at. This mirrors snake-tool/generate.sh: the upstream generator
+# draws a fixed 4-cell snake, so snake/patch.js is applied to make it grow.
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: snake
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate the SVGs
+        working-directory: snake
+        run: |
+          npm install --silent generate-snake-animation@3.5.0
+          node patch.js 2 7
+          ./node_modules/.bin/generate-snake-animation --github_user=osmntahir \
+            --output='github-contribution-grid-snake.svg?color_snake=%2336BCF7' \
+            --output='github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2336BCF7'
+
+      - name: Publish to the output branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin output:output
+          git worktree add "$RUNNER_TEMP/output" output
+          cp snake/github-contribution-grid-snake.svg snake/github-contribution-grid-snake-dark.svg "$RUNNER_TEMP/output/"
+          cd "$RUNNER_TEMP/output"
+          git add -A
+          git diff --cached --quiet && { echo "snake unchanged"; exit 0; }
+          git commit -q -m "Regenerate snake animation"
+          git push origin output

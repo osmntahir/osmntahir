@@ -1,0 +1,4 @@
+snake/node_modules/
+snake/package*.json
+snake/generateSnakeAnimation.pristine.js
+snake/*.svg
