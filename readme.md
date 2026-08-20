@@ -106,9 +106,9 @@ terminals and thermal receipt printers.
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/osmntahir/osmntahir/output/github-contribution-grid-snake-dark.svg?v=3"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/osmntahir/osmntahir/output/github-contribution-grid-snake.svg?v=3"/>
-  <img width="100%" src="https://raw.githubusercontent.com/osmntahir/osmntahir/output/github-contribution-grid-snake.svg?v=3" alt="Snake eating the contribution grid"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/osmntahir/osmntahir/output/github-contribution-grid-snake-dark.svg?v=4"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/osmntahir/osmntahir/output/github-contribution-grid-snake.svg?v=4"/>
+  <img width="100%" src="https://raw.githubusercontent.com/osmntahir/osmntahir/output/github-contribution-grid-snake.svg?v=4" alt="Snake eating the contribution grid"/>
 </picture>
 
 </div>
